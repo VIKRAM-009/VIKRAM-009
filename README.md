@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">Data Scientist | AI & ML Enthusiast | Power BI Developer</h3>
 
 <p align="center">
-I help businesses turn data into insights and build AI-driven solutions. Passionate about Machine Learning, NLP, Anomaly Detection, and RFM Clustering.
+I leverage data to drive impactful business decisions and develop AI-powered solutions, with a passion for Machine Learning, NLP, Anomaly Detection, and RFM Clustering.
 </p>
 
 ---
