@@ -24,7 +24,7 @@ I leverage data to drive impactful business decisions and develop AI-powered sol
 
 ### 📚 Get Access to My Work  
 - 🔗 **[My Portfolio](https://yourportfolio.com)**
-- 📩 Contact me at **vikramrautela13@gmail.com**
+- 📩 Contact me at **vikramrautela441@gmail.com**
 
 ---
 
